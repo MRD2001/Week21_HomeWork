@@ -31,6 +31,8 @@ The steps for this assignment are divided into the following subsections:
 
 4. Deploy and Test the Crowdsale on a Local Blockchain
 
+<img width="1410" alt="image" src="https://user-images.githubusercontent.com/56103714/164604947-49b3d231-06f6-4b0f-8d29-cfda992395ba.png">
+
 4.1 Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
 
